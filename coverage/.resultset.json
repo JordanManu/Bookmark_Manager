@@ -1,84 +1,125 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/jordanmanu/Makers-course/Week-4/Bookmark-manager/app.rb": {
+      "/Users/jordanmanu/Makers-course/Week-4/jordan-bookmark/Bookmark-manager/spec/bookmark_spec.rb": {
         "lines": [
           1,
-          1,
-          1,
-          null,
-          1,
-          1,
-          0,
-          null,
-          null,
-          1,
-          1,
-          null,
-          null,
-          1,
-          1,
-          1,
-          null,
-          null,
-          1,
-          null
-        ]
-      },
-      "/Users/jordanmanu/Makers-course/Week-4/Bookmark-manager/lib/bookmark.rb": {
-        "lines": [
-          1,
-          null,
           1,
           null,
           1,
           2,
-          2,
-          16,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
           null,
           null,
           null
         ]
       },
-      "/Users/jordanmanu/Makers-course/Week-4/Bookmark-manager/spec/bookmark_spec.rb": {
-        "lines": [
-          1,
-          null,
-          1,
-          1,
-          1,
-          null,
-          1,
-          1,
-          1,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/jordanmanu/Makers-course/Week-4/Bookmark-manager/spec/features/view_all_bookmarks_spec.rb": {
+      "/Users/jordanmanu/Makers-course/Week-4/jordan-bookmark/Bookmark-manager/spec/features/add_bookmark_spec.rb": {
         "lines": [
           1,
           1,
           1,
-          1,
+          null,
           1,
           1,
           null,
           null
         ]
       },
-      "/Users/jordanmanu/Makers-course/Week-4/Bookmark-manager/spec/features/viewing_bookmark_spec.rb": {
+      "/Users/jordanmanu/Makers-course/Week-4/jordan-bookmark/Bookmark-manager/spec/features/delete_bookmark_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/jordanmanu/Makers-course/Week-4/jordan-bookmark/Bookmark-manager/spec/features/view_all_bookmarks_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/jordanmanu/Makers-course/Week-4/jordan-bookmark/Bookmark-manager/spec/features/viewing_bookmark_spec.rb": {
         "lines": [
           1,
           1,
           1,
           1,
           null,
+          null
+        ]
+      },
+      "/Users/jordanmanu/Makers-course/Week-4/jordan-bookmark/Bookmark-manager/spec/web_helper_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          8,
+          8,
+          8,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
           null
         ]
       }
     },
-    "timestamp": 1649699460
+    "timestamp": 1649940884
   }
 }
